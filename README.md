@@ -19,9 +19,9 @@ The dataset used in this project is Indonesia Tourism Destination dataset (https
 
 **Technology**
 
-Plotly
-Dash
-Bootstrap
+- Plotly
+- Dash
+- Bootstrap
 
 **Video Demo**
 
