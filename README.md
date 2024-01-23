@@ -25,4 +25,4 @@ The dataset used in this project is Indonesia Tourism Destination dataset (https
 
 **Video Demo**
 
-https://drive.google.com/file/d/1-q1NxFxnEtNT9RzTwPPI7mzd1teXiIJU/view?usp=sh aring
+https://drive.google.com/file/d/1-q1NxFxnEtNT9RzTwPPI7mzd1teXiIJU/view?usp=sharing
